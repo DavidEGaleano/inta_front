@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/inta_front/static/css/main.8f805776.chunk.css",
-    "main.js": "/inta_front/static/js/main.7e27e6d8.chunk.js",
-    "main.js.map": "/inta_front/static/js/main.7e27e6d8.chunk.js.map",
+    "main.js": "/inta_front/static/js/main.bb17ae34.chunk.js",
+    "main.js.map": "/inta_front/static/js/main.bb17ae34.chunk.js.map",
     "runtime-main.js": "/inta_front/static/js/runtime-main.5850de3d.js",
     "runtime-main.js.map": "/inta_front/static/js/runtime-main.5850de3d.js.map",
     "static/css/2.e78a60e1.chunk.css": "/inta_front/static/css/2.e78a60e1.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.e78a60e1.chunk.css",
     "static/js/2.2e77abdf.chunk.js",
     "static/css/main.8f805776.chunk.css",
-    "static/js/main.7e27e6d8.chunk.js"
+    "static/js/main.bb17ae34.chunk.js"
   ]
 }
